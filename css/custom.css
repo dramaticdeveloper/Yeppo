@@ -1,0 +1,183 @@
+.navbar {
+  color: #fff;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+a.navbar-brand {
+  font-family: 'Homemade Apple', cursive;
+  font-size: 22px;
+  color: #Ed91A0;
+}
+.navbar-right {
+  text-transform: uppercase;
+}
+.banner {
+  margin-bottom: 100px;
+}
+.dstyle {
+  border-top: 1px solid #5e5e5e;
+  border-bottom: 1px solid #5e5e5e;
+  padding-top: 100px;
+  padding-bottom: 100px;
+  text-align: right;
+}
+.dstyle h2 {
+  font-family: 'Homemade Apple', cursive;
+}
+.dstyle h1 {
+  text-transform: uppercase;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 800;
+  line-height: 1px;
+  font-size: 60px;
+  color: #Ed91A0;
+  margin-bottom: 80px;
+}
+.dstyle p {
+  font-family: 'Montserrat', sans-serif;
+}
+.oneliner {
+  background-image: url("../img/oneliner1.jpg");
+  background-attachment: fixed;
+  background-size: cover;
+  background-position: center;
+}
+.oneliner h2 {
+  padding-top: 100px;
+  padding-bottom: 100px;
+  font-family: 'Homemade Apple', cursive;
+  text-align: center;
+  max-width: 1500px;
+}
+.we {
+  border-bottom: 1px solid #5e5e5e;
+  padding-top: 80px;
+  padding-bottom: 100px;
+  text-align: center;
+}
+.we h2 {
+  margin-top: 40px;
+  font-family: 'Homemade Apple', cursive;
+}
+.we h1 {
+  text-transform: uppercase;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 800;
+  line-height: 1px;
+  font-size: 60px;
+  color: #Ed91A0;
+  margin-bottom: 100px;
+}
+.we p {
+  margin-top: 20px;
+  font-family: 'Montserrat', sans-serif;
+}
+.trends {
+  margin-top: 10px;
+  border-top: 1px solid #5e5e5e;
+  border-bottom: 1px solid #5e5e5e;
+  padding-top: 100px;
+  padding-bottom: 100px;
+  text-align: left;
+}
+.trends h2 {
+  font-family: 'Homemade Apple', cursive;
+}
+.trends h1 {
+  text-transform: uppercase;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 800;
+  line-height: 1px;
+  font-size: 60px;
+  color: #Ed91A0;
+  margin-bottom: 80px;
+}
+.trends p {
+  font-family: 'Montserrat', sans-serif;
+}
+.photogallery {
+  border-bottom: 1px solid #5e5e5e;
+  padding-top: 100px;
+  padding-bottom: 100px;
+  text-align: left;
+}
+.photogallery .item {
+  background-image: url("http://via.placeholder.com/350x250");
+  height: 250px;
+  width: 350px;
+}
+.photogallery h2 {
+  font-family: 'Homemade Apple', cursive;
+}
+.photogallery h1 {
+  text-transform: uppercase;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 800;
+  line-height: 1px;
+  font-size: 60px;
+  color: #Ed91A0;
+  margin-bottom: 80px;
+}
+.photogallery p {
+  font-family: 'Montserrat', sans-serif;
+}
+.drop {
+  padding-top: 80px;
+  padding-bottom: 100px;
+  text-align: center;
+}
+.drop h2 {
+  font-family: 'Homemade Apple', cursive;
+}
+.drop h1 {
+  text-transform: uppercase;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 800;
+  line-height: 1px;
+  font-size: 60px;
+  color: #Ed91A0;
+  margin-bottom: 100px;
+}
+.drop p {
+  margin: 0 auto;
+  text-align: center;
+  margin-top: 20px;
+  font-family: 'Montserrat', sans-serif;
+  max-width: 500px;
+}
+.footer {
+  width: 100%;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  background-color: #5e5e5e;
+}
+.footer .imge {
+  margin: 0px auto;
+  max-width: 300px;
+}
+.footer h2 {
+  font-family: 'Homemade Apple', cursive;
+  margin: 60px auto ;
+  text-align: center;
+  font-size: 40px;
+}
+.footer h5 {
+  font-family: 'Montserrat', sans-serif;
+  text-transform: uppercase;
+}
+.footer p {
+  margin: 0 auto;
+  text-align: left;
+  margin-top: 20px;
+  font-family: 'Montserrat', sans-serif;
+  max-width: 500px;
+}
+.credits {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 12px;
+  padding-top: 3px;
+  text-align: center;
+  background-color: #494949;
+  color: black;
+  margin-bottom: 0px;
+}
